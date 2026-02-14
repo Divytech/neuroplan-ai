@@ -1,4 +1,4 @@
-# Design Document: AI Study Planner and Smart Notes Generator
+# Design Document: NeuroPlan AI
 
 ## Overview
 
